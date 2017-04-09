@@ -1,4 +1,4 @@
-#A simple weather application
+# A simple weather application
 To start the application, follow these steps:
 1. Install node.js at https://nodejs.org/
 2. Open the keys.param file and add your API keys for the OpenWeatherMap and the Google maps APIs found at http://openweathermap.org/ and at https://code.google.com/apis/console
