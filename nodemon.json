@@ -1,0 +1,3 @@
+{
+  "ignoreRoot": ["error.log","data.json"]
+}

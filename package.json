@@ -1,0 +1,15 @@
+{
+  "name": "weather-application",
+  "version": "1.0.0",
+  "description": "A simple web application that displays the current weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  }
+}

@@ -1,0 +1,34 @@
+
+html,body{
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+  width: 100%;
+  overflow:hidden;
+}
+body{
+  background-color: black;
+}
+#center-title{
+  width: 50%;
+  height: auto;
+  color: white;
+  position:absolute;
+  z-index: 1;
+  left: 25%;
+  top: 30%;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 100%;
+  text-align: center;
+  pointer-events: none;
+}
+#map{
+  width:100%;
+  height:100%;
+  z-index: 0;
+  position: absolute;
+  background-color: black;
+}
+.gmnoprint{
+  display: none;
+}
